@@ -1,6 +1,6 @@
 # About me:
 
-I'm a former classically trained musician with a degree in violin, and I am also proficient in playing the electric guitar, which I actively play and enjoy to this day. Despite my love for music, it led to a dead end as I struggled to find stable and meaningful employment in Croatia.
+I'm a former classically trained musician with a degree in violin (abbreviated title: mag. mus.), and I am also proficient in playing the electric guitar, which I actively play and enjoy to this day. Despite my love for music, it led to a dead end as I struggled to find stable and meaningful employment in Croatia.
 
 Being secretly in love with technology my whole life, I eventually enrolled in an entry-level network engineering course at Algebra University College. This ignited a deep interest in network engineering, helping me understand the essential concepts and technologies required for data transport. After completing the course, I successfully passed my CCNA certification as well.
 
