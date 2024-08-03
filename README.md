@@ -4,7 +4,7 @@ I'm a former classically trained musician with a degree in violin (abbreviated t
 
 Being secretly in love with technology my whole life, I eventually enrolled in an entry-level network engineering course at Algebra University College. This ignited a deep interest in network engineering, helping me understand the essential concepts and technologies required for data transport. After completing the course, I successfully passed my CCNA certification as well.
 
-Interestingly, my musical education has been beneficial in understanding technology. Music, with its vast theory, strict rules, exact syntax, and precise execution, shares many conceptual similarities with IT. This background has enhanced my critical thinking, problem-solving skills, and abstract intelligence.
+Interestingly, my musical education has been beneficial in understanding technology. Music, with its vast theory, strict rules, exact syntax, and precise execution, shares many conceptual similarities with information technology. This background has enhanced my critical thinking, problem-solving skills, and abstract intelligence.
 
 Despite these efforts, I haven't yet secured a job that allows me to grow and reach my potential. In the meantime, I am spontaneously focusing on cybersecurity and penetration testing, fields that perfectly suit my endlessly curious mind. I read, research, and practice daily, constantly expanding my knowledge and documenting my progress here on GitHub.
 
