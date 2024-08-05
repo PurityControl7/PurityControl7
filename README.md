@@ -10,4 +10,4 @@ Despite these efforts, I haven't yet secured a job that allows me to grow and re
 
 So far, I've had the most contact with scripting languages like Bash, PowerShell, and Python. I'm also keen on deepening my understanding of assembly language. One of my long-term goals is to analyze, understand, and potentially write my own UEFI bootkits similar to CosmicStrand, which fascinates me deeply. For now, I am focusing on more realistic and pressing goals, one step at a time. While I possess a decent amount of knowledge about cybersecurity and penetration testing techniques, I know there's always more to learn and discover.
 
-Despite the big challenges in my job hunt and poor quality of life, I will never give up. I am committed to this path because nothing compares to my passion for cybersecurity and network engineering.
+Despite the big challenges in my job hunt and poor quality of life, I will never give up. I am committed to this path one hundred percent and nothing can stop me.
